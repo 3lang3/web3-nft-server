@@ -1,0 +1,54 @@
+{
+  "name": "Your Collection #389",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/4856246/Cryptogothicgirl/389.png",
+  "dna": "34e22e713ec7f7069d13277836ededb9f8a7205f",
+  "edition": 389,
+  "date": 1660966090474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_1"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_0"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Necklace_0"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Dress_1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head_0"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Mouth_0"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose_0"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Eye_0"
+    },
+    {
+      "trait_type": "Brows",
+      "value": "Brows_0"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Hair_7"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Accessories_0"
+    }
+  ]
+}

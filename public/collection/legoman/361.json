@@ -1,0 +1,22 @@
+{
+  "name": "Digital Legoman#361",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/4856246/CryptoLegoman/361.png",
+  "dna": "84dba3dbdbe5e1988405ca6b410d5f58d313de83",
+  "edition": 361,
+  "date": 1660965842052,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_14"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_0"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head_4"
+    }
+  ]
+}

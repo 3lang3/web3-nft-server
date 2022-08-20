@@ -1,0 +1,22 @@
+{
+  "name": "Digital Legoman#68",
+  "description": "Replace this description",
+  "image": "https://storage.googleapis.com/nftcollection/4856246/CryptoLegoman/68.png",
+  "dna": "7a26522d5cb854067927fc49b57dc44ee93d9e0a",
+  "edition": 68,
+  "date": 1660965798278,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Background_11"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body_26"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head_9"
+    }
+  ]
+}
